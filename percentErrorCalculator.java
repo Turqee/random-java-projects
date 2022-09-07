@@ -19,6 +19,9 @@ public class percentErrorCalculator {
                 float answer = Math.abs(z); //Absolute value thingy
 
                 System.out.println("Here is your value: " + answer);
+                /* btw the percent error equation is 
+                 Actual value - Estimated Value 
+                 divided by Estimated value multiplied by 100 */
             }
         }
     }
