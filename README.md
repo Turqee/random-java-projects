@@ -1,2 +1,1 @@
-# random-java-projects
-git hub made me make this 🤣
+thank you github, very cool!
